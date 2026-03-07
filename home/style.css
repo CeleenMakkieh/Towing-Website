@@ -1705,7 +1705,7 @@ div.buttons .button_2 .text,
     height: 100%;
 }
 #\38 9e4ab31 {
-    background-image: url(/Resources/images/shutterstock_2187706013-2880w.jpg);
+    background-image: url(../Resources/images/shutterstock_2187706013-2880w.jpg);
     border-width: 0 0 15px 0;
     border-color: #000000 #000000 rgba(203,30,38,1) #000000;
     border-style: solid;
@@ -1784,7 +1784,7 @@ div.buttons .button_2 .text,
     
 #a0d1af20 {
     background-color: rgba(36,36,36,1);
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
     background-attachment: fixed;
 }
 }
@@ -1801,7 +1801,7 @@ div.buttons .button_2 .text,
     
 #\31 fa42f52 {
     background-color: rgba(0,0,0,0);
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
     background-attachment: fixed;
 }
     
@@ -2002,7 +2002,7 @@ div.buttons .button_2 .text,
     row-gap: 16px;
     border-radius: 0px 0px 0px 0px;
     width: 48.5%;
-    background-image: url(/Resources/files);
+    background-image: url(../Resources/files);
     min-width: 4%;
     order: 0;
     padding: 16px 16px 16px 16px;
@@ -2055,7 +2055,7 @@ div.buttons .button_2 .text,
     
 #a57358cd {
     background-color: rgba(0, 0, 0, 0);
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
     background-attachment: fixed;
 }
     
@@ -2157,7 +2157,7 @@ div.buttons .button_2 .text,
     border-color: var(--color_1) #000000 #000000 #000000;
     background-color: var(--color_8);
     border-width: 0px 0 0 0;
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
     border-style: solid;
     background-attachment: fixed;
 }
@@ -2196,7 +2196,7 @@ div.buttons .button_2 .text,
     border-color: var(--color_1) #000000 #000000 #000000;
     background-color: var(--color_8);
     border-width: 0px 0 0 0;
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
     border-style: solid;
     background-attachment: fixed;
 }
@@ -2391,7 +2391,7 @@ div.buttons .button_2 .text,
     border-color: var(--color_1) #000000 #000000 #000000;
     background-color: var(--color_8);
     border-width: 0px 0 0 0;
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
     border-style: solid;
     background-attachment: fixed;
 }
@@ -2432,7 +2432,7 @@ div.buttons .button_2 .text,
     background-color: var(--color_1);
     border-radius: 0px 0px 0px 0px;
     border-width: 15px 0 0 0;
-    background-image: url(/Resources/images/images22-2880w.jpg);
+    background-image: url(../Resources/images/images22-2880w.jpg);
     border-style: solid;
 }
     
@@ -2635,7 +2635,7 @@ div.buttons .button_2 .text,
 }
 #flex-footer {
     background-color: rgba(0, 0, 0, 0);
-    background-image: url("/Resources/images/back01-2880w.jpg");
+    background-image: url("../Resources/images/back01-2880w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;

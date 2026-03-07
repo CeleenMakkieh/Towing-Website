@@ -1539,7 +1539,7 @@ div.buttons .button_2 .text,
     background-color: rgba(255,255,255,1);
 }
 #\37 b9cb695 {
-    background-image: url(/Resources/images/shutterstock_1770477515-2880w.jpg);
+    background-image: url(../Resources/images/shutterstock_1770477515-2880w.jpg);
     border-width: 0 0 15px 0;
     border-color: #000000 #000000 rgba(203,30,38,1) #000000;
     border-style: solid;
@@ -1602,7 +1602,7 @@ div.buttons .button_2 .text,
 #f1889cf5 {
     background-color: rgba(0, 0, 0, 0);
     background-attachment: fixed;
-    background-image: url(/Resources/images/back01-2880w.jpg);
+    background-image: url(../Resources/images/back01-2880w.jpg);
 }
     
 #widget_mbo {
@@ -1655,7 +1655,7 @@ div.buttons .button_2 .text,
 }
 #flex-footer {
     background-color: rgba(0, 0, 0, 0);
-    background-image: url("/Resources/images/back01-2880w.jpg");
+    background-image: url("../Resources/images/back01-2880w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
