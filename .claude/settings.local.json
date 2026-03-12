@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)\")"
+      "Bash(ls \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)\")",
+      "Bash(wc -l \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/gallery/index.html\")",
+      "Bash(ls -lt \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources/images/\")",
+      "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources/images/\")",
+      "Bash(wc -l \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)\\\\home\\\\index.html\")"
     ]
   }
 }

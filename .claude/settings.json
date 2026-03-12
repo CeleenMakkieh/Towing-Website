@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(node --version)",
-      "Bash(python -m http.server 8080)"
+      "Bash(python -m http.server 8080)",
+      "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/gallery\")",
+      "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources\")",
+      "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/gallery/images\")",
+      "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/gallery/files\")"
     ]
   }
 }
