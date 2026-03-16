@@ -5,7 +5,8 @@
       "Bash(wc -l \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/gallery/index.html\")",
       "Bash(ls -lt \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources/images/\")",
       "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources/images/\")",
-      "Bash(wc -l \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)\\\\home\\\\index.html\")"
+      "Bash(wc -l \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)\\\\home\\\\index.html\")",
+      "Bash(ls \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)/images/\")"
     ]
   }
 }
