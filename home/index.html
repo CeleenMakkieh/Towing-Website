@@ -3265,14 +3265,25 @@
         Parameters.HomeLinkText = 'Home';
     </script>
     <script>
-        $(document.body).on("click", "a[href^='tel:'] , a[href^='sms:']", function (event) {
-            var device = $.layoutDevice && $.layoutDevice.type;
-            var isEditorMode = ($.layoutManager && $.layoutManager._isEditorMode) || false;
-            if (($.DM && $.DM.isTouchDevice) || (device === 'mobile' && !isEditorMode)) {
-                return true;
+        // Allow tel: links on all devices
+        $(document.body).on("click", "a[href^='tel:'] , a[href^='sms:']", function () {
+            return true;
+        });
+        // Hamburger menu toggle
+        $(document).on('click', '.hamburgerButton', function () {
+            var drawer = $('#hamburger-drawer');
+            var container = $('#dm-outer-wrapper');
+            if (drawer.attr('open')) {
+                drawer.removeAttr('open');
+                container.removeClass('layout-drawer_open');
             } else {
-                event.preventDefault();
+                drawer.attr('open', '');
+                container.addClass('layout-drawer_open');
             }
+        });
+        $(document).on('click', '#layout-drawer-overlay', function () {
+            $('#hamburger-drawer').removeAttr('open');
+            $('#dm-outer-wrapper').removeClass('layout-drawer_open');
         });
     </script>
     <!--  End Script tags --><!--  Begin Body End Markup -->
