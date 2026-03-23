@@ -6,7 +6,8 @@
       "Bash(ls -lt \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources/images/\")",
       "Bash(ls \"c:/Users/celee/OneDrive/Desktop/New folder \\(7\\)/Resources/images/\")",
       "Bash(wc -l \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)\\\\home\\\\index.html\")",
-      "Bash(ls \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)/images/\")"
+      "Bash(ls \"c:\\\\Users\\\\celee\\\\OneDrive\\\\Desktop\\\\New folder \\(7\\)/images/\")",
+      "Bash(python3 -c \":*)"
     ]
   }
 }
